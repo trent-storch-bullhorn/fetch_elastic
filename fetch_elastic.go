@@ -10,7 +10,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	elasticsearch "github.com/elastic/go-elasticsearch/v7"
+	elasticsearch "github.com/elastic/go-elasticsearch/v8"
 )
 
 // HitCounter - for unmarshaling search results
